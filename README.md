@@ -1,6 +1,6 @@
 Hi there 👋
 
-🔭 I’m currently working on second project for QA!
+🔭 I’m currently working on third project for QA!
 
 🌱 I’m currently training with QA to become DevOps engineer. 
 
